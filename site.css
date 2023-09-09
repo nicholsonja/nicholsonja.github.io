@@ -12,3 +12,9 @@ p {
     width: 25%;
     margin: auto;
 }
+
+#smileImage {
+    width: 10%;
+    display: block;
+    margin: auto;
+}
